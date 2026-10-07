@@ -1,4 +1,4 @@
-# Google Tag Manager Installation --- Ivy Tutors Network
+# Google Tag Manager Installation
 
 Please install the following Google Tag Manager container on
 **ivytutorsnetwork.com**.
