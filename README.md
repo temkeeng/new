@@ -1,5 +1,3 @@
-# Ivy Tutors Network --- GTM + Google Ads Purchase Tracking
-
 ## Goal
 
 Track successful purchases that arrive at:
